@@ -1,4 +1,4 @@
-package Operadores.Desafio;
+package Operadores.Desafio.copy;
 
 public class Ex01 {
 	public static void main(String[] args) {
@@ -22,11 +22,6 @@ public class Ex01 {
 		int F = DD / EE;
 		System.out.println(F);
 		
-		
-		
-		
-		
-		
-		
+			
 	}
 }

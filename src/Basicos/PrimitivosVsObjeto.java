@@ -1,4 +1,4 @@
-package Basicos;
+package Operadores;
 
 public class PrimitivosVsObjeto {
 	public static void main(String[] args) {

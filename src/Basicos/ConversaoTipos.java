@@ -1,4 +1,4 @@
-package Basicos;
+package Operadores;
 
 public class ConversaoTipos {
 	public static void main(String[] args) {

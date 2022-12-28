@@ -1,4 +1,4 @@
-package Basicos;
+package Operadores;
 
 import javax.swing.JOptionPane;
 
